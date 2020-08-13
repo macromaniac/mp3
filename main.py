@@ -36,8 +36,8 @@ def volUp():
     print(f"vol up button pressed")
     vol=m.getvolume()[0]
     vol+=5
-    if(vol>90):
-        vol=90
+    if(vol>100):
+        vol=100
     print(f"set vol to {vol}")
     m.setvolume(vol)
 
