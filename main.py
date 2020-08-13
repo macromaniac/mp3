@@ -2,7 +2,7 @@
 from time import sleep
 print(f"starting vlc")
 import vlc
-Instance = vlc.Instance("--vout=dummy")
+Instance = vlc.Instance("--no-video")
 
 #create our playlist
 import glob, random
