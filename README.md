@@ -4,6 +4,6 @@
 
 I use my phone to listen to music, but then it's tempting to goof off on my phone, so I built this. 
 
-I have prolly 100 hours of usage in it. You can see it like an ipod shuffle using videos from youtube-dl.
+You can see it like an ipod shuffle using videos from youtube-dl. I have used it for about 100 hours.
 
-Be careful, when you use it in public people think it's a bomb.
+The only downside is when you use it in public people think it's a bomb.
